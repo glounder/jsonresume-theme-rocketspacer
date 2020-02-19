@@ -340,4 +340,8 @@ h4 span:first-child {
 	.col-sm-1 {
 	  width: 8.333333333333332%;
   }
+
+  .avoid-break {
+    break-inside: avoid;
+  }
 }
