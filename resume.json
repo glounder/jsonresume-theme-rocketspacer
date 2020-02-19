@@ -124,37 +124,50 @@
   ],
   "skills": [
     {
-      "name": "Frontend Development",
-      "level": "Master",
+      "name": "Web Technologies",
+      "level": "",
       "keywords": [
-        "HTML/CSS/Javascript",
-        "Boostrap",
-        "Babel",
-        "React/Redux",
-        "Webpack"
-      ]
-    },
-    {
-      "name": "Backend Development",
-      "level": "Master",
-      "keywords": [
+        "Vue/Vuetify/Vuex",
+        "Angular",
+        "REST/JSON",
         "NodeJS",
-        "Golang",
-        "MongoDB",
-        "Postgres",
-        "Redis"
+        "RxJS",
+        "Web Sockets",
+        "HTML5",
+        "SASS/CSS"
       ]
     },
     {
-      "name": "System Administration",
-      "level": "Master",
+      "name": "Software Tools",
+      "level": "",
+      "keywords": [
+        "GIT/SVN",
+        "VS Code",
+        "IntelliJ/Eclipse",
+        "Sourcetree",
+        "Jenkins",
+        "Artifactory",
+        "JIRA",
+        "Trello"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Javascript/Typescript",
+        "Java/Kotlin",
+        "Python"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "level": "",
       "keywords": [
         "AWS",
-        "Linux",
-        "NGINX",
-        "CloudFlare",
-        "Shell",
-        "Docker"
+        "Docker",
+        "Kubernetes/DCOS",
+        "VMWare/OpenStack"
       ]
     }
   ],
