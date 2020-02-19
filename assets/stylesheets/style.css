@@ -182,11 +182,11 @@ h4 span:first-child {
 		margin-bottom: 0px;
   }
 
-	#content aside {
+	/* #content aside {
 		margin-bottom: 20px;
 		padding-right: 0;
 		text-align: left;
-  }
+  } */
 
 	#publications .website a:before {
 		content: "View publication";
